@@ -8,6 +8,6 @@ My main goal here is to absorb as much knowledge as I can about programming. I'm
 
 ## How to Connect 🐸
 I would love to connect with fellow learners, mentors, and experienced developers. If you have advice, suggestions, or just want to share your coding experiences, feel free to reach out:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: [angeltrek007@gmail.com](mailto:angeltrek007@gmail.com)
+- LinkedIn: [Angel Mauricio Ramirez Herrera]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/angel-mauricio-ramirez-herrera-a700642a5/))
+- Instagram: [_angel_mauricio]([https://twitter.com/YourTwitterHandle](https://www.instagram.com/_angel_mauricio/)https://www.instagram.com/_angel_mauricio/)
