@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate computational engineering student at "Tecnológico de Monterrey", currently in my last semester. At 22 years old, I am dedicated to expanding my knowledge and contributing to the kitten community.
+I am a passionate computational engineering student at "Tecnológico de Monterrey", currently in my last semester. At 22 years old, I am dedicated to expanding my knowledge and contributing to the programming community.
 
 ## Learning Objective 🎯
 
